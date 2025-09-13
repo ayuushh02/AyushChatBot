@@ -5,9 +5,18 @@ A simple RAG (Retrieval-Augmented Generation) chatbot using OpenAI, Pinecone, an
 ## Setup
 
 1. Install uv from https://docs.astral.sh/uv/
-2. Copy `.env.example` to `.env` and add your API keys:
-   - OpenAI API key
-   - Pinecone API key and index name
+2. Create a `.env` file and add your API keys:
+   ```bash
+   OPENAI_API_KEY=YOUR_API_KEY
+   OPENAI_BASE_URL=OPENAI_BASE_URL
+   OPENAI_MODEL=PREFERRED_MODEL
+
+   PINECONE_API_KEY=PINECONE_API_KEY
+   PINECONE_INDEX=PINECONE_INDEX
+
+
+   GEMINI_API_KEY=GEMINI_API_KEY
+   ```
 3. Install dependencies:
 
 ```bash
