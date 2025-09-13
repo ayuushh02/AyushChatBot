@@ -1,9 +1,0 @@
-Salesforce AI Revolution: Cutting Staff by Nearly Half Through AI Automation
-
-Salesforce CEO Marc Benioff revealed in September 2025 that AI agents now handle roughly half of all customer service interactions at the company, enabling them to reduce support staff from 9,000 to 5,000 employees. This represents one of the most significant corporate restructuring moves driven by AI automation to date.
-
-Benioff called the past eight months "the most exciting" of his career as AI dramatically improved operational efficiency and freed up resources for sales efforts. The AI transformation allowed Salesforce to reconnect with over 100 million previously neglected customer leads, demonstrating the technology's potential to not just cut costs but also drive revenue growth.
-
-Despite the substantial workforce reduction, Salesforce remains San Francisco's largest private employer with approximately 76,000 employees worldwide. The move signals a broader trend of enterprise AI adoption that prioritizes efficiency and automation over traditional human-heavy customer service models.
-
-This development highlights both the transformative potential of AI in enterprise operations and the significant workforce implications as companies increasingly rely on AI agents for customer-facing functions. The success at Salesforce may serve as a blueprint for other large corporations considering similar AI-driven operational changes.
